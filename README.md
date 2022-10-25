@@ -276,15 +276,14 @@ public class RollerAgent : Agent
 }
 ```
 3) Изменил Behaviour parameters
-4) 
 ![image](https://user-images.githubusercontent.com/100460661/197793016-91fbb5be-9402-494c-9893-78bc93855659.png)
 
 
-5) Запустил обучение
+4) Запустил обучение 
 ![image](https://user-images.githubusercontent.com/100460661/197792340-ae293fef-174e-461c-b441-eeb29403c9d0.png)
 ![image](https://user-images.githubusercontent.com/100460661/197795537-9a1bfe0a-6a0f-4508-98e0-3ed2123725c7.png)
 
-6) Проверил работоспособность модели
+5) Проверил работоспособность модели
 
 
 https://user-images.githubusercontent.com/100460661/197796914-00425888-2d12-4095-8696-e1235f4a1d57.mp4
